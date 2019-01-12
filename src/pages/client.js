@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 import BarList from '../components/barList';
-import tileData from './tileData';
+import tileData from '../data/tileData';
 
 class SecondPage extends Component {
   constructor(props) {
